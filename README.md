@@ -1,4 +1,5 @@
-cordova-plugin-dgram
-====================
+cordova-plugin-datagram
+=======================
 
-Cordova plugin for sending datagram/UDP
+Cordova plugin for sending datagram/UDP. Supports multicast UDP.
+
